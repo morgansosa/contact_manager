@@ -14,8 +14,8 @@ A simple command-line application to manage contacts. This application allows ad
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/contact-manager.git
-    cd contact-manager
+    git clone https://github.com/morgansosa/contact_manager.git
+    cd contact_manager
     ```
 
 2. Ensure you have Python installed. You can download it from [Python.org](https://www.python.org/downloads/).
@@ -24,7 +24,7 @@ A simple command-line application to manage contacts. This application allows ad
 
 1. Navigate to the project directory:
     ```bash
-    cd contact-manager
+    cd contact_manager
     ```
 
 2. Run the application:
